@@ -1,6 +1,5 @@
 # 🍽️ Pantry-to-Plate: A Multi-Agent System for Zero-Waste Meal Planning
 
-> **Subtitle:** This sequential multi-agent system extracts user-defined ingredients, uses a web search tool to find recipes, and generates a zero-waste meal plan and shopping list.
 
 ---
 
